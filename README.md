@@ -18,7 +18,7 @@ The prototype automatically:
 The goal is simple: **reduce response time, eliminate manual triage, and ensure critical issues are never missed.**
 
 ---
-## 🎥 click Below to Watch the Demo Video ⬇️
+## 🎥 Click Below to Watch the Demo Video ⬇️
 [![Video Walkthrough](https://github.com/user-attachments/assets/761a50fc-54c8-47d4-aa1c-a875bce0ad26)](https://youtu.be/LKkv91yTXTU?si=zB1Vv9NU0KlJ2U)
 
 
