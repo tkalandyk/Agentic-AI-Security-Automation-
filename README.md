@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 30, 2026, 08_07_12 PM" src="https://github.com/user-attachments/assets/afa5ac50-3e51-4e18-8988-8fbb1f58ccd3" />
+
 # Agentic AI Security Automation  
 ### Tenable → Jira Vulnerability Workflow Prototype
 
